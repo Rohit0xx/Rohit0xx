@@ -2,7 +2,7 @@
 <!-- 🌟 TOP BANNER IMAGE -->
 <!-- ========================= -->
 <p align="center">
-  <img src="/mnt/data/A_digital_graphic_illustration_features_a_dark_blu.png" width="100%" />
+  <img src="banner.png" width="100%" height="250px" />
 </p>
 
 <h1 align="center">💫 Hi 👋, I'm Rohit Raj</h1>

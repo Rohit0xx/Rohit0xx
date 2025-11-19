@@ -2,7 +2,7 @@
 <!-- 🌟 TOP BANNER IMAGE -->
 <!-- ========================= -->
 <p align="center">
-  <img src="banner.png" width="100%" height="250px" />
+  <img src="banner.png" style="width:100%; object-fit:cover; height:300px;" />
 </p>
 
 <h1 align="center">💫 Hi 👋, I'm Rohit Raj</h1>

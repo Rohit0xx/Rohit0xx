@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td align="center" width="45%">
-      <h3>🧑‍💻 Who Are You?</h3>
+      <h3>🧑‍💻 Who AM I ?</h3>
       <p>
         I'm <b>Rohit Raj</b>, a passionate Full-Stack Developer and
         final-year Computer Science student from VTU.<br>
@@ -40,12 +40,12 @@
       </p>
     </td>
     <td align="center" width="45%">
-      <h3>🚀 What Are You Working On?</h3>
+      <h3>🚀 I am working on ?</h3>
       <p>
-        • MERN Fullstack Apps<br>
+        • MERN Fullstack website (Apps) <br>
         • Real-time Socket.io Projects<br>
-        • DSA & Competitive Coding<br>
-        • Backend APIs & Architecture
+        • DSA <br>
+        • Backend DEV
       </p>
     </td>
   </tr>
@@ -62,7 +62,7 @@
       </p>
     </td>
     <td align="center" width="45%">
-      <h3>📬 How to Reach You?</h3>
+      <h3>📬 How to Reach me ?</h3>
       <p>
         📧 <b>Email:</b> rajrohit77027@gmail.com<br>
         📸 <b>Instagram:</b> @RohitAlpha<br>
